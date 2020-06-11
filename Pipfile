@@ -10,11 +10,11 @@ flake8 = "*"
 black = "*"
 isort = "*"
 rope = "*"
+pylint-django = "*"
 
 [packages]
 django = "*"
 pillow = "*"
-pylint-django = "*"
 
 [requires]
 python_version = "3.8"
